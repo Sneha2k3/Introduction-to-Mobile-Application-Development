@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490102365408",
+    "project_id": "pass-e0142",
+    "storage_bucket": "pass-e0142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490102365408:android:13c2e63cc4aa7853aa0485",
+        "android_client_info": {
+          "package_name": "com.example.shadowpass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKHjWEJVivmFHY95agzUb7VBQBj_ggg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
